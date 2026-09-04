@@ -14,5 +14,7 @@ dependencies = [
     "pyldavis>=3.4.1",
     "scikit-learn>=1.9.0",
     "spacy>=3.8.16",
+    "torch>=2.13.0",
+    "torchvision>=0.28.0",
     "vadersentiment>=3.3.2",
 ]
